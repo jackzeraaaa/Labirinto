@@ -3,9 +3,11 @@
 
 O funcionamento é simples, você informa o tamanho de uma matriz e em seguida um labirinto em forma matricial, onde cada elemento dessa matriz será representado por números inteiros:
 
-1 = PAREDE
-0 = CAMINHO
-7 = SAÍDA DO LABIRINTO
+>1 = PAREDE 
+>
+>0 = CAMINHO 
+>
+>7 = SAÍDA DO LABIRINTO 
 
 Exemplos de entrada:
 ```
