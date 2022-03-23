@@ -6,16 +6,17 @@ O funcionamento é simples, você informa o tamanho de uma matriz e em seguida u
 0 = CAMINHO
 7 = SAÍDA DO LABIRINTO
 
-Exemplos de entrada:```
+Exemplos de entrada:
+```
 1 1 1 0 0
 0 0 0 0 1
 1 0 1 1 1
 1 1 7 1 0
 1 1 1 1 1
 
->1 1 0 0 1
->0 0 0 1 1
->1 1 0 1 1
->1 0 0 0 0
->1 1 7 0 1
+1 1 0 0 1
+0 0 0 1 1
+1 1 0 1 1
+1 0 0 0 0
+1 1 7 0 1
 ```
